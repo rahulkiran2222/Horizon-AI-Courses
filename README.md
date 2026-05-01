@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="120"/>
+<h1>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"/>
+  AI Learning Hub
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"/>
+</h1>
 
-# 🤖 AI Learning Hub
-
-### *Master AI, ML & Beyond — For Free*
+### *Master AI, ML & Beyond — For Free* 🚀
 
 </div>
 
