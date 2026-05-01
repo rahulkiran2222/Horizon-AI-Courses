@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI%20Learning%20Hub&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Master%20AI,%20ML%20%26%20Beyond%20—%20For%20Free&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+# 🤖 AI Learning Hub
+
+### *Master AI, ML & Beyond — For Free*
+
+</div>
 
 <a href="https://github.com/rahulkiran2222">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+AI+Learning+Hub+%F0%9F%A4%96;10%2B+Courses+on+AI%2C+ML+%26+Computer+Vision;Free+Education+for+Everyone+%E2%9C%A8" alt="Typing SVG" />
